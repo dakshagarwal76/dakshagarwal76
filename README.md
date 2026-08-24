@@ -39,9 +39,6 @@ Published at **ACM ASIACCS (A)** and **MDPI Electronics (Q2)** · ML Lead at **G
 | 03 | [**cloudnerd-benchmark**](https://github.com/dakshagarwal76/cloudnerd-benchmark) | RAG & agent evaluation benchmarks |
 | 04 | [**gated-mm-tsf**](https://github.com/dakshagarwal76/gated-mm-tsf) | Multimodal time-series forecasting |
 | 05 | [**avatargen**](https://github.com/dakshagarwal76/avatargen) | AI avatar & synthetic voice MVP |
-| 06 | [**dakshagarwal76.github.io**](https://github.com/dakshagarwal76/dakshagarwal76.github.io) | Personal portfolio site |
-
-Full experience, projects, and CV → [**dakshagarwal76.github.io**](https://dakshagarwal76.github.io/)
 
 ---
 
