@@ -6,67 +6,88 @@
 
 # Daksh Agarwal
 
-**Building AI that thinks carefully and ships cleanly.**
+### Building AI that thinks carefully and ships cleanly.
 
-Machine learning engineer & researcher — agents, RAG systems, computer vision, and evaluation pipelines.
+Machine learning engineer & researcher working on **agents**, **RAG**, **computer vision**, and **evaluation pipelines**.
 
-[Portfolio](https://dakshagarwal76.github.io/) · [LinkedIn](https://www.linkedin.com/in/dakshagarwal76) · [Google Scholar](https://scholar.google.com/citations?user=LNShZFMAAAAJ&hl=en) · [Email](mailto:dakshagrawal76@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dakshagarwal76.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://dakshagarwal76.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dakshagarwal76-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshagarwal76)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-LNShZFMAAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LNShZFMAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-dakshagrawal76%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshagrawal76@gmail.com)
 
 </div>
 
 ---
 
-### About
+### About me
 
-Dual-degree AI student (B.Tech AI & ML @ GGSIPU · B.S. AI & Data Science @ IIT Madras). Currently ML Intern at **Peakflo (YC W22)** and **Avawatz**, and Research Associate at **NYU**. Published at **ACM ASIACCS (A)** and **MDPI Electronics (Q2)**. ML Lead at Google Developer Group.
+Dual-degree AI student (**B.Tech AI & ML @ GGSIPU** · **B.S. AI & Data Science @ IIT Madras**).
 
-Open to research collaborations, ML roles, and agentic systems work · Delhi / Remote
+Currently:
+- ML Intern at **Peakflo (YC W22)** — LLM agents for enterprise finance
+- ML Intern at **Avawatz** — predictive maintenance & vision
+- Research Associate at **NYU** — RAG benchmarks & multi-LLM pipelines
 
----
-
-### Featured work
-
-| Project | What it is |
-|---------|------------|
-| [**nasa-cmapps**](https://github.com/dakshagarwal76/nasa-cmapps) | NASA C-MAPSS RUL benchmark — 13 ML / DL / graph models on FD001–FD004 |
-| [**agentic-customnerd**](https://github.com/dakshagarwal76/agentic-customnerd) | Agentic / expertise-based QA systems |
-| [**cloudnerd-benchmark**](https://github.com/dakshagarwal76/cloudnerd-benchmark) | RAG & agent evaluation benchmarks |
-| [**gated-mm-tsf**](https://github.com/dakshagarwal76/gated-mm-tsf) | Multimodal time-series forecasting |
-| [**avatargen**](https://github.com/dakshagarwal76/avatargen) | AI avatar & synthetic voice MVP |
-
-Full story, experience, and CV → [**dakshagarwal76.github.io**](https://dakshagarwal76.github.io/)
+Published at **ACM ASIACCS (A)** and **MDPI Electronics (Q2)** · ML Lead at **Google Developer Group** · Delhi / Remote
 
 ---
 
-### Focus areas
+### Featured repositories
+
+| | Project | Focus |
+|---:|---------|--------|
+| 01 | [**nasa-cmapps**](https://github.com/dakshagarwal76/nasa-cmapps) | NASA C-MAPSS RUL — 13 ML / DL / graph models on FD001–FD004 |
+| 02 | [**agentic-customnerd**](https://github.com/dakshagarwal76/agentic-customnerd) | Agentic / expertise-based question answering |
+| 03 | [**cloudnerd-benchmark**](https://github.com/dakshagarwal76/cloudnerd-benchmark) | RAG & agent evaluation benchmarks |
+| 04 | [**gated-mm-tsf**](https://github.com/dakshagarwal76/gated-mm-tsf) | Multimodal time-series forecasting |
+| 05 | [**avatargen**](https://github.com/dakshagarwal76/avatargen) | AI avatar & synthetic voice MVP |
+| 06 | [**dakshagarwal76.github.io**](https://github.com/dakshagarwal76/dakshagarwal76.github.io) | Personal portfolio site |
+
+Full experience, projects, and CV → [**dakshagarwal76.github.io**](https://dakshagarwal76.github.io/)
+
+---
+
+### What I work on
 
 ```text
-LLM Agents & RAG     ·  Predictive Maintenance  ·  Computer Vision
-Evaluation / Bench.  ·  Responsible AI          ·  MLOps
+LLM Agents & RAG          Predictive Maintenance       Computer Vision
+Evaluation / Benchmarks   Responsible AI               MLOps & Cloud
 ```
 
-**Stack:** Python · PyTorch · Scikit-learn · XGBoost · LangChain / LangGraph · Transformers · YOLO · Azure ML · FAISS / Chroma
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="sklearn" />
+  <img src="https://img.shields.io/badge/XGBoost-005A9C?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
 
 ---
 
 ### Publications
 
-- **DECKER** — Domain-invariant Embedding for Cross-Keyboard Extraction and Recognition · [ACM ASIACCS 2026](https://dl.acm.org/doi/10.1145/3779208.3805984) (A)
-- **CustomNerd** — Production-ready expertise-based QA · MDPI Electronics 2026 (Q2)
+- **DECKER** — Domain-invariant Embedding for Cross-Keyboard Extraction and Recognition · [ACM ASIACCS 2026](https://dl.acm.org/doi/10.1145/3779208.3805984) *(A ranking)*
+- **CustomNerd** — Framework for production-ready expertise-based QA · *MDPI Electronics 2026 (Q2)*
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dakshagarwal76&show_icons=true&theme=transparent&hide_border=true&title_color=1a1a1a&text_color=444444&icon_color=2E75B6&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshagarwal76&layout=compact&theme=transparent&hide_border=true&title_color=1a1a1a&text_color=444444" height="165" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshagarwal76&theme=default&hide_border=true&background=FFFFFF00" alt="GitHub streak" />
+<a href="https://github.com/dakshagarwal76">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dakshagarwal76&show_icons=true&theme=transparent&hide_border=true&title_color=111111&text_color=444444&icon_color=2E75B6&count_private=true" alt="GitHub stats" />
+</a>
+<a href="https://github.com/dakshagarwal76">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshagarwal76&layout=compact&theme=transparent&hide_border=true&title_color=111111&text_color=444444" alt="Top languages" />
+</a>
 
 <br/><br/>
 
-⭐ From [dakshagarwal76](https://github.com/dakshagarwal76) — thanks for visiting
+**Open to research collaborations, ML internships, and agentic systems work.**
+
+[Portfolio](https://dakshagarwal76.github.io/) · [LinkedIn](https://www.linkedin.com/in/dakshagarwal76) · [Email](mailto:dakshagrawal76@gmail.com)
 
 </div>
