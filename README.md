@@ -10,7 +10,6 @@
 
 Machine learning engineer & researcher working on **agents**, **RAG**, **computer vision**, and **evaluation pipelines**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dakshagarwal76.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://dakshagarwal76.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dakshagarwal76-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshagarwal76)
 [![Scholar](https://img.shields.io/badge/Google_Scholar-LNShZFMAAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LNShZFMAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-dakshagrawal76%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshagrawal76@gmail.com)
@@ -25,7 +24,6 @@ Dual-degree AI student (**B.Tech AI & ML @ GGSIPU** · **B.S. AI & Data Science 
 
 Currently:
 - ML Intern at **Peakflo (YC W22)** — LLM agents for enterprise finance
-- ML Intern at **Avawatz** — predictive maintenance & vision
 - Research Associate at **NYU** — RAG benchmarks & multi-LLM pipelines
 
 Published at **ACM ASIACCS (A)** and **MDPI Electronics (Q2)** · ML Lead at **Google Developer Group** · Delhi / Remote
